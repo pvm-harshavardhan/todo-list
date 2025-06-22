@@ -2,6 +2,8 @@
 
 A sleek and responsive To-Do List web application to help you organize your daily tasks, set deadlines, and track your progress—all right in your browser.
 
+> 🌐 **Live Demo:** [View the To-Do List App](https://pvm-harshavardhan.github.io/todo-list/)
+
 ![App Screenshot](project_screenshot.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
